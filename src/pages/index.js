@@ -356,6 +356,9 @@ const Page = () => (
             <IndexCardLink to="/partner_docs/EsriArcGISProandEsriArcGISEnterprise">
               Esri ArcGIS Pro and Esri ArcGIS Enterprise
             </IndexCardLink>
+            <IndexCardLink to="/partner_docs/HashicorpVault">
+              Hashicorp Vault
+            </IndexCardLink>
             <IndexCardLink to="/partner_docs/ImpervaDataSecurityFabric">
               Imperva Data Security Fabric
             </IndexCardLink>
